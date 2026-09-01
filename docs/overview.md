@@ -19,10 +19,12 @@ This module provides Pipeline handlers. A handler observes, transforms, rejects,
 - `gnalloy.org/handler-traffic` (`traffic`)
 
 ## Direct Gnalloy Dependencies
+
 - `gnalloy.org/gnalloy`
 
-## Direct Dependents in the Current Module Plan
-- No repository in the current module plan depends on this module directly.
+## Direct Dependents in the Current Repository Set
+
+- No repository in the current local Gnalloy set directly depends on this module.
 
 ## Architecture Position
 
